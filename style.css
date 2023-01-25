@@ -1,0 +1,10 @@
+
+
+body {
+    background: linear-gradient(to right, #2193b0, #6dd5ed); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+#formulario{
+background-color: aliceblue;
+}
